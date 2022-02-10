@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/annab6/FM_8-space-tourism-website)
-- Live Site URL: [Add live site URL here](https://annab6.github.io/FM_8-space-tourism-website/)
+- Solution URL: [https://github.com/annab6/FM_8-space-tourism-website](https://github.com/annab6/FM_8-space-tourism-website)
+- Live Site URL: [https://annab6.github.io/FM_8-space-tourism-website/](https://annab6.github.io/FM_8-space-tourism-website/)
 
 ## My process
 
